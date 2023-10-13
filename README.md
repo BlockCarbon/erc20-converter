@@ -27,7 +27,7 @@ Holders of ERC-20 carbon tokens might consider migrating to the Cardano blockcha
 
 * Security: Cardano claims enhanced security through its extended UTXO model, which offers certain advantages over the account-based model in Ethereum.
 
-*Rich Contract Model: With the introduction of Plutus smart contracts, Cardano aims to offer a more flexible and powerful contract environment.
+* Rich Contract Model: With the introduction of Plutus smart contracts, Cardano aims to offer a more flexible and powerful contract environment.
 
 ### ERC-20 Converter Flow
 ![alt text](https://blockcarbon.io/images/erc20flow.png "Ideal Flow of ERC-20 Conversion")
