@@ -38,6 +38,7 @@ Instead of relying on any specific API or token distribution network, proof-of-b
 
 ### How the website works
 There is a dedicated landing page that can use a deployment script and facilitate conversion. 
+
 [BlockCarbon ERC-20 Converter Landing page](https://blockcarbon.io/erc20.html)
 
 ### How the script works
@@ -45,6 +46,8 @@ From an adverse selection point of view, it is highly likely that the owner of a
 
 ### Smart contracts
 Users should intensively test on the Sepolia and Preview Testnets using the Remix Injected Provider - MetaMask functionality before deploying any Solidity code live.
+[Remix Injected Web3]([https://dripdropz.io/about-us](https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js&lang=en
+))
 
 ### Decentralization vs security trade-offs
 Exchanging tokens between Ethereum and Cardano using the ERC-20 converter involves making certain trade-offs between decentralization and security. Let's delve into the trade-offs and some potential designs.
@@ -77,4 +80,5 @@ The ideal design likely combines elements from various models to balance securit
 
 ### Scale and overheads
 Ideally, a trusted token distribution provider can be used for the user's needs. DripDropz provides token dispensing services to the Cardano community. A certain critical mass of token expected to exchanged might be required to justify the upfront costs of the DripDropz API (coming soon).
+
 [About DripDropz](https://dripdropz.io/about-us)
