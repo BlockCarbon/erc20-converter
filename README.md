@@ -83,3 +83,10 @@ The ideal design likely combines elements from various models to balance securit
 Ideally, a trusted token distribution provider can be used for the user's needs. DripDropz provides token dispensing services to the Cardano community. A certain critical mass of token expected to exchanged might be required to justify the upfront costs of the DripDropz API (coming soon).
 
 [About DripDropz](https://dripdropz.io/about-us)
+
+### Milkomeda as an alternative
+* Milkomeda wrapped smart contract to bridge ERC-20 tokens directly:
+
+[Development overview using npm/javascript and Flint/MetaMask wallets] (https://docs.milkomeda.com/cardano/wrapped-smart-contracts/developers/dev_overview)
+
+[Solidity contracts can interact with Cardano via Milkomeda](https://docs.milkomeda.com/cardano/wrapped-smart-contracts/developers/how_to_integrate)
