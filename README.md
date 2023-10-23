@@ -47,7 +47,7 @@ From an adverse selection point of view, it is highly likely that the owner of a
 ### Smart contracts
 Users should intensively test on the Sepolia and Preview Testnets using the Remix Injected Provider - MetaMask functionality before deploying any Solidity code live.
 
-[Remix Injected Web3] (https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js&lang=en
+[Remix Injected Web3](https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js&lang=en
 )
 
 ### Decentralization vs security trade-offs
