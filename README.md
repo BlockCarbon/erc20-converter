@@ -92,3 +92,15 @@ Milkomeda wrapped smart contract to bridge ERC-20 tokens directly:
 
 
 [Solidity contracts can interact with Cardano via Milkomeda](https://docs.milkomeda.com/cardano/wrapped-smart-contracts/developers/how_to_integrate)
+
+##### This requires manually setting up Milkomeda as a network inside MetaMask
+
+* Network Name: Milkomeda Cardano (C1)
+
+* New RPC URL: https://rpc-mainnet-cardano-evm.c1.milkomeda.com
+
+* Chain ID: 2001
+
+* Currency Symbol: mADA
+
+* Block Explorer URL: https://explorer-mainnet-cardano-evm.c1.milkomeda.com
