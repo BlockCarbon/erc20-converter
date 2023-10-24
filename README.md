@@ -33,7 +33,7 @@ Holders of ERC-20 carbon tokens might consider migrating to the Cardano blockcha
 ### ERC-20 Converter Flow
 ![alt text](https://blockcarbon.io/images/erc20flow.png "Ideal Flow of ERC-20 Conversion")
 
-##### erc20Flow.sol
+##### ercFlow.sol
 * Before calling verifyAndBurn, the user must give approval for this contract to transfer the ERC-20 token from their wallet. This can be done by calling the approve function of the ERC-20 token contract.
 * The IERCBurn interface assumes that the burnTokens function needs the user address, tokenID, and the amount to burn. If the actual ercBurn.sol function signature is different, this interface should be updated accordingly.
 * This contract assumes that burnTokens in ercBurn.sol will handle the actual burning of the tokens. This contract will only approve the burning action.
