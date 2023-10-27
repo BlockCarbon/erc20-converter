@@ -29,6 +29,9 @@ Holders of ERC-20 carbon tokens might consider migrating to the Cardano blockcha
 
 * Rich Contract Model: With the introduction of Plutus smart contracts, Cardano aims to offer a more flexible and powerful contract environment.
 
+Official Video about the advantages of native Cardano tokens over ERC-20
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=PVqsCXh-V5Y)
+
 
 ### ERC-20 Converter Flow
 ![alt text](https://blockcarbon.io/images/erc20flow.png "Ideal Flow of ERC-20 Conversion")
