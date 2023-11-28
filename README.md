@@ -2,7 +2,7 @@
 
 Simple to use, decentralized, secure conversion of ERC-20 carbon tokens meeting specification into BlockCarbon tokens on Cardano. Liquidity boost for developing carbon market.
 ***
-![alt text] (https://blockcarbon.io/images/pic01.jpg "©2023 BlockCarbon Foundation MTÜ")
+[logo] : https://blockcarbon.io/images/pic01.jpg "©2023 "BlockCarbon Foundation MTÜ"
 
 ## Motivation
 BlockCarbon offers an independent and non-profit approach to carbon credit standard and tokenization. It's preferred blockchain is Cardano which offers superior security, lower costs and better scalability than Ethereum. Existing projects that have been retired and tokenized as ERC-20 tokens can to avoid double counting not easily move between blockchains.
